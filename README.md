@@ -29,7 +29,5 @@ The contract provides the following functions:
 - **`getLatestTransactionTimestamp`**, **`getSenderAddress`**, **`getReceiverAddress`**: Test helper functions.
 2. Make sure values ​​are updated correctly after each transaction.
 
-## Examples
-### 1. Check balance
-```solidity
-balanceOf(0xYourAddress);
+![image](https://github.com/user-attachments/assets/dec513c7-12e0-4d99-832b-59a858e9680f)
+![image](https://github.com/user-attachments/assets/e6d8ef51-d4e8-4fe6-99d0-4c3bd42623e4)
